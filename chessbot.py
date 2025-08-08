@@ -4,7 +4,7 @@ import sqlite3
 import math
 
 # ---------- CONFIGURATION ----------
-TOKEN = "MTQwMzE3NjU0Nzg2MjU3NzI3Mg.G4Ws6p.CSLxbgc_0hVTCPS70RZpviN7flMI0GdxF5dLkk"
+TOKEN = "ENTER_TOKEN_HERE"
 DATABASE = "elo_bot.db"
 prefix = "!"
 
